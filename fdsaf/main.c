@@ -34,7 +34,6 @@
 
 
 //CON FOR
-
 /*int main()
 {
     int i;
